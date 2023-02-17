@@ -1,0 +1,11 @@
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/io-wait-0.3.0/ext/io/wait
+/Users/watasho/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20230217-36871-10flfm9.rb extconf.rb
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR=" clean
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR="
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR=" install

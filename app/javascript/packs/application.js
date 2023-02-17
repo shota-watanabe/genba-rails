@@ -18,4 +18,4 @@
 // console.log('Hello World from Webpacker')
 
 // taskleaf/hello.jsをインポート
-import 'taskleaf/hello';
+// import 'taskleaf/hello';
