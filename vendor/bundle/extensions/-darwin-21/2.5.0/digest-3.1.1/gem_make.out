@@ -1,0 +1,17 @@
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/digest-3.1.1/ext/digest/sha2
+/Users/watasho/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20230217-73702-16z34xd.rb extconf.rb
+checking for CommonCrypto/CommonDigest.h... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR=" clean
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR="
+compiling sha2init.c
+linking shared-object digest/sha2.bundle
+
+current directory: /Users/watasho/study/genba-rails/vendor/bundle/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 sha2.bundle ./.gem.20230217-73702-1x7rnaf/digest
